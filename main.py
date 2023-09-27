@@ -1,6 +1,6 @@
 def isPrime(n):
     return n > 1 and all(n % x != 0 for x in range(2, int(n**0.5) + 1))
-
+print('Hey!!!')
 def f(n):
     a = []
     for i in range(1,n+1):
