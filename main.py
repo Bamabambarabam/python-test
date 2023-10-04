@@ -7,7 +7,7 @@ def f(n):
         if isPrime(i) == 1:
             a.append(i)
     return a
-
+print('drrr')
 m = int(input())
 
 
